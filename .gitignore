@@ -1,0 +1,16 @@
+# Node dependencies & builds
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Java Maven & IDE
+target/
+*.class
+.vscode/
+.idea/
+*.iml
+*.log
+.DS_Store
+Thumbs.db
